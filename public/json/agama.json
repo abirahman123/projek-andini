@@ -1,0 +1,26 @@
+[
+    {
+        "agama" : "Islam",
+        "keterangan" : "Agama Islam"
+    },
+    {
+        "agama" : "Kristen",
+        "keterangan" : "Agama Kristen"
+    },
+    {
+        "agama" : "Katolik",
+        "keterangan" : "Agama Katolik"
+    },
+    {
+        "agama" : "Hindu",
+        "keterangan" : "Agama Hindu"
+    },
+    {
+        "agama" : "Budha",
+        "keterangan" : "Agama Budha"
+    },
+    {
+        "agama" : "Konghucu",
+        "keterangan" : "Agama Konghucu"
+    }
+]

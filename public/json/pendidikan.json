@@ -1,0 +1,22 @@
+[
+    {
+        "pendidikan" : "Tidak Tamat SD",
+        "keterangan" : "Tidak Tamat SD"
+    },
+    {
+        "pendidikan" : "Tamat SD",
+        "keterangan" : "Tamat SD"
+    },
+    {
+        "pendidikan": "Tamat SMP",
+        "keterangan": "Tamat SMP"
+    },
+    {
+        "pendidikan": "Tamat SMA",
+        "keterangan": "Tamat SMA"
+    },
+    {
+        "pendidikan": "D3/D4/Sarjana",
+        "keterangan": "D3/D4/Sarjana"
+    }
+]

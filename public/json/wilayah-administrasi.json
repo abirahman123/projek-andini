@@ -1,0 +1,1745 @@
+[
+    {
+        "kode_surat": "409.15.5",
+        "kode_desa" : "3505080009",
+        "desa" : "Kuningan",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.13",
+        "kode_desa" : "3505160002",
+        "desa" : "Sumberdiren",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.19.3",
+        "kode_desa" : "3505170001",
+        "desa" : "Bangsri",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.18.4",
+        "kode_desa" : "3505180001",
+        "desa" : "Plosoarang",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.5",
+        "kode_desa" : "3505180002",
+        "desa" : "Tuliskriyo",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.8",
+        "kode_desa" : "3505180008",
+        "desa" : "Sumber",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.25.14",
+        "kode_desa" : "3505190006",
+        "desa" : "Dadaplangu",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.20.6",
+        "kode_desa" : "3505200001",
+        "desa" : "Purwokerto",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.5",
+        "kode_desa" : "3505200012",
+        "desa" : "Wonorejo",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.2",
+        "kode_desa" : "3505200020",
+        "desa" : "Dermojayan",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.26.7",
+        "kode_desa" : "3505220019",
+        "desa" : "Bendorejo",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.39.8",
+        "kode_desa" : "3505010012",
+        "desa" : "Sumberdadi",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.36.6",
+        "kode_desa" : "3505030010",
+        "desa" : "Panggungasri",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.38.8",
+        "kode_desa" : "3505040006",
+        "desa" : "Purworejo",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.37.7",
+        "kode_desa" : "3505050005",
+        "desa" : "Sukorame",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.11",
+        "kode_desa" : "3505050009",
+        "desa" : "Umbuldamar",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.29",
+        "kode_desa" : "3505060008",
+        "desa" : "Sutojayan",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.33",
+        "kode_desa" : "3505060016",
+        "desa" : "Jegu",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.40.2",
+        "kode_desa" : "3505070007",
+        "desa" : "Sumberjo",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.7",
+        "kode_desa" : "3505070015",
+        "desa" : "Darungan",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.27.2",
+        "kode_desa" : "3505210006",
+        "desa" : "Kaliboto",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.4",
+        "kode_desa" : "3505210011",
+        "desa" : "Jaten",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.53.10",
+        "kode_desa" : "3505090001",
+        "desa" : "Tumpang",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.2",
+        "kode_desa" : "3505090009",
+        "desa" : "Pasirharjo",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.58.5",
+        "kode_desa" : "3505100004",
+        "desa" : "Jatitengah",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.50.6",
+        "kode_desa" : "3505110005",
+        "desa" : "Sukoanyar",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.4",
+        "kode_desa" : "3505110016",
+        "desa" : "Kemirigede",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.51.5",
+        "kode_desa" : "3505120008",
+        "desa" : "Ngrendeng",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.49.7",
+        "kode_desa" : "3505130010",
+        "desa" : "Kalimanis",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.52.8",
+        "kode_desa" : "3505150002",
+        "desa" : "Gondang",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.6",
+        "kode_desa" : "3505150003",
+        "desa" : "Kotes",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.10",
+        "kode_desa" : "3505150011",
+        "desa" : "Slumbung",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.39.10",
+        "kode_desa" : "3505010001",
+        "desa" : "Plandirejo",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.9",
+        "kode_desa" : "3505010002",
+        "desa" : "Tumpakoyot",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.7",
+        "kode_desa" : "3505010003",
+        "desa" : "Bululawang",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.6",
+        "kode_desa" : "3505010004",
+        "desa" : "Sidomulyo",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.38.7",
+        "kode_desa" : "3505040005",
+        "desa" : "Tulungrejo",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.42.3",
+        "kode_desa" : "3505020006",
+        "desa" : "Ngadipuro",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.15.4",
+        "kode_desa" : "3505080007",
+        "desa" : "Gaprang",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.39.5",
+        "kode_desa" : "3505010005",
+        "desa" : "Tumpakkepuh",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.4",
+        "kode_desa" : "3505010009",
+        "desa" : "Lorejo",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.3",
+        "kode_desa" : "3505010010",
+        "desa" : "Kedungbanteng",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.1",
+        "kode_desa" : "3505010011",
+        "desa" : "Bakung",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.11",
+        "kode_desa" : "3505010013",
+        "desa" : "Pulerejo",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.39.2",
+        "kode_desa" : "3505010014",
+        "desa" : "Ngrejo",
+        "kecamatan" : "Bakung",
+        "kode_kecamatan" : "3505010"
+    },
+    {
+        "kode_surat": "409.38.4",
+        "kode_desa" : "3505040007",
+        "desa" : "Sumberarum",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.42.8",
+        "kode_desa" : "3505020001",
+        "desa" : "Tambakrejo",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.42.7",
+        "kode_desa" : "3505020002",
+        "desa" : "Kaligrenjeng",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.42.6",
+        "kode_desa" : "3505020003",
+        "desa" : "Pasiraman",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.42.4",
+        "kode_desa" : "3505020004",
+        "desa" : "Sumberboto",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.42.5",
+        "kode_desa" : "3505020005",
+        "desa" : "Gununggede",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.23",
+        "kode_desa" : "3505200016",
+        "desa" : "Dandong",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.42.2",
+        "kode_desa" : "3505020007",
+        "desa" : "Ngeni",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.42.1",
+        "kode_desa" : "3505020008",
+        "desa" : "Wonotirto",
+        "kecamatan" : "Wonotirto",
+        "kode_kecamatan" : "3505020"
+    },
+    {
+        "kode_surat": "409.36.7",
+        "kode_desa" : "3505030001",
+        "desa" : "Serang",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.8",
+        "kode_desa" : "3505030002",
+        "desa" : "Sumbersih",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.38.2",
+        "kode_desa" : "3505040008",
+        "desa" : "Mojorejo",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.36.9",
+        "kode_desa" : "3505030003",
+        "desa" : "Kaligambir",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.5",
+        "kode_desa" : "3505030004",
+        "desa" : "Balerejo",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.4",
+        "kode_desa" : "3505030005",
+        "desa" : "Sumberagung",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.1",
+        "kode_desa" : "3505030006",
+        "desa" : "Panggungrejo",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.10",
+        "kode_desa" : "3505030007",
+        "desa" : "Kalitengah",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.2",
+        "kode_desa" : "3505030008",
+        "desa" : "Margomulyo",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.36.3",
+        "kode_desa" : "3505030009",
+        "desa" : "Bumiayu",
+        "kecamatan" : "Panggungrejo",
+        "kode_kecamatan" : "3505030"
+    },
+    {
+        "kode_surat": "409.49.4",
+        "kode_desa" : "3505130002",
+        "desa" : "Genengan",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.38.5",
+        "kode_desa" : "3505040001",
+        "desa" : "Ringinrejo",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.38.6",
+        "kode_desa" : "3505040002",
+        "desa" : "Sukorejo",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.38.3",
+        "kode_desa" : "3505040003",
+        "desa" : "Tugurejo",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.38.1",
+        "kode_desa" : "3505040004",
+        "desa" : "Wates",
+        "kecamatan" : "Wates",
+        "kode_kecamatan" : "3505040"
+    },
+    {
+        "kode_surat": "409.37.3",
+        "kode_desa" : "3505050001",
+        "desa" : "Salamrejo",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.9",
+        "kode_desa" : "3505050012",
+        "desa" : "Kedungwungu",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.2",
+        "kode_desa" : "3505050002",
+        "desa" : "Sumberkembar",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.1",
+        "kode_desa" : "3505050003",
+        "desa" : "Binangun",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.5",
+        "kode_desa" : "3505050004",
+        "desa" : "Birowo",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.12",
+        "kode_desa" : "3505050006",
+        "desa" : "Ngadri",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.6",
+        "kode_desa" : "3505050007",
+        "desa" : "Sambigede",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.4",
+        "kode_desa" : "3505050008",
+        "desa" : "Rejoso",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.10",
+        "kode_desa" : "3505050010",
+        "desa" : "Tawangrejo",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.37.8",
+        "kode_desa" : "3505050011",
+        "desa" : "Ngembul",
+        "kecamatan" : "Binangun",
+        "kode_kecamatan" : "3505050"
+    },
+    {
+        "kode_surat": "409.28.1",
+        "kode_desa" : "3505060006",
+        "desa" : "Pandanarum",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.32",
+        "kode_desa" : "3505060007",
+        "desa" : "Kedungbunder",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.28.3",
+        "kode_desa" : "3505060009",
+        "desa" : "Bacem",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.28.2",
+        "kode_desa" : "3505060010",
+        "desa" : "Sumberjo",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.35",
+        "kode_desa" : "3505060011",
+        "desa" : "Sukorejo",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.3",
+        "kode_desa" : "3505060012",
+        "desa" : "Kalipang",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.34",
+        "kode_desa" : "3505060013",
+        "desa" : "Jingglong",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.28.4",
+        "kode_desa" : "3505060014",
+        "desa" : "Kaulon",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.31",
+        "kode_desa" : "3505060015",
+        "desa" : "Kembangarum",
+        "kecamatan" : "Sutojayan",
+        "kode_kecamatan" : "3505060"
+    },
+    {
+        "kode_surat": "409.40.14",
+        "kode_desa" : "3505070001",
+        "desa" : "Panggungduwet",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.13",
+        "kode_desa" : "3505070002",
+        "desa" : "Pakisaji",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.12",
+        "kode_desa" : "3505070003",
+        "desa" : "Kebonsari",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.4",
+        "kode_desa" : "3505070004",
+        "desa" : "Bendosari",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.1",
+        "kode_desa" : "3505070005",
+        "desa" : "Suruhwadang",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.11",
+        "kode_desa" : "3505070006",
+        "desa" : "Maron",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.15.1",
+        "kode_desa" : "3505080003",
+        "desa" : "Karangsono",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.40.3",
+        "kode_desa" : "3505070008",
+        "desa" : "Dawuhan",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.10",
+        "kode_desa" : "3505070009",
+        "desa" : "Sumberjati",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.8",
+        "kode_desa" : "3505070010",
+        "desa" : "Plumpungrejo",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.9",
+        "kode_desa" : "3505070011",
+        "desa" : "Jimbe",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.41",
+        "kode_desa" : "3505070012",
+        "desa" : "Kademangan",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.5",
+        "kode_desa" : "3505070013",
+        "desa" : "Rejowinangun",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.40.6",
+        "kode_desa" : "3505070014",
+        "desa" : "Plosorejo",
+        "kecamatan" : "Kademangan",
+        "kode_kecamatan" : "3505070"
+    },
+    {
+        "kode_surat": "409.15.9",
+        "kode_desa" : "3505080001",
+        "desa" : "Minggirsari",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.15.7",
+        "kode_desa" : "3505080002",
+        "desa" : "Gogodeso",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.17",
+        "kode_desa" : "3505080004",
+        "desa" : "Satreyan",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.16",
+        "kode_desa" : "3505080005",
+        "desa" : "Kanigoro",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.15.3",
+        "kode_desa" : "3505080006",
+        "desa" : "Tlogo",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.15.8",
+        "kode_desa" : "3505080008",
+        "desa" : "Jatinom",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.15.10",
+        "kode_desa" : "3505080010",
+        "desa" : "Papungan",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.15.6",
+        "kode_desa" : "3505080011",
+        "desa" : "Banggle",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.15.2",
+        "kode_desa" : "3505080012",
+        "desa" : "Sawentar",
+        "kecamatan" : "Kanigoro",
+        "kode_kecamatan" : "3505080"
+    },
+    {
+        "kode_surat": "409.53.8",
+        "kode_desa" : "3505090002",
+        "desa" : "Jabung",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.7",
+        "kode_desa" : "3505090003",
+        "desa" : "Jeblog",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.9",
+        "kode_desa" : "3505090004",
+        "desa" : "Bendosewu",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.5",
+        "kode_desa" : "3505090006",
+        "desa" : "Duren",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.6",
+        "kode_desa" : "3505090007",
+        "desa" : "Sragi",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.4",
+        "kode_desa" : "3505090008",
+        "desa" : "Wonorejo",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.1",
+        "kode_desa" : "3505090010",
+        "desa" : "Kendalrejo",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.56",
+        "kode_desa" : "3505090011",
+        "desa" : "Talun",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.55",
+        "kode_desa" : "3505090012",
+        "desa" : "Bajang",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.57",
+        "kode_desa" : "3505090013",
+        "desa" : "Kaweron",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.53.3",
+        "kode_desa" : "3505090014",
+        "desa" : "Jajar",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.54",
+        "kode_desa" : "3505090015",
+        "desa" : "Kamulan",
+        "kecamatan" : "Talun",
+        "kode_kecamatan" : "3505090"
+    },
+    {
+        "kode_surat": "409.58.8",
+        "kode_desa" : "3505100001",
+        "desa" : "Mandesan",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.58.3",
+        "kode_desa" : "3505100002",
+        "desa" : "Selopuro",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.58.2",
+        "kode_desa" : "3505100003",
+        "desa" : "Ploso",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.58.4",
+        "kode_desa" : "3505100005",
+        "desa" : "Jambewangi",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.58.6",
+        "kode_desa" : "3505100006",
+        "desa" : "Tegalrejo",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.58.7",
+        "kode_desa" : "3505100007",
+        "desa" : "Mronjo",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.58.1",
+        "kode_desa" : "3505100008",
+        "desa" : "Popoh",
+        "kecamatan" : "Selopuro",
+        "kode_kecamatan" : "3505100"
+    },
+    {
+        "kode_surat": "409.50.9",
+        "kode_desa" : "3505110001",
+        "desa" : "Siraman",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.8",
+        "kode_desa" : "3505110002",
+        "desa" : "Jugo",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.1",
+        "kode_desa" : "3505110003",
+        "desa" : "Kesamben",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.7",
+        "kode_desa" : "3505110004",
+        "desa" : "Pagergunung",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.5",
+        "kode_desa" : "3505110013",
+        "desa" : "Tapakrejo",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.2",
+        "kode_desa" : "3505110014",
+        "desa" : "Pagerwojo",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.3",
+        "kode_desa" : "3505110015",
+        "desa" : "Tepas",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.50.10",
+        "kode_desa" : "3505110017",
+        "desa" : "Bumirejo",
+        "kecamatan" : "Kesamben",
+        "kode_kecamatan" : "3505110"
+    },
+    {
+        "kode_surat": "409.51.2",
+        "kode_desa" : "3505120001",
+        "desa" : "Pohgajih",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.3",
+        "kode_desa" : "3505120002",
+        "desa" : "Selorejo",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.49.3",
+        "kode_desa" : "3505130003",
+        "desa" : "Jambepawon",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.51.10",
+        "kode_desa" : "3505120003",
+        "desa" : "Ngreco",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.9",
+        "kode_desa" : "3505120004",
+        "desa" : "Boro",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.8",
+        "kode_desa" : "3505120005",
+        "desa" : "Olak-Alen",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.4",
+        "kode_desa" : "3505120006",
+        "desa" : "Sumberagung",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.1",
+        "kode_desa" : "3505120007",
+        "desa" : "Banjarsari",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.6",
+        "kode_desa" : "3505120009",
+        "desa" : "Sidomulyo",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.51.7",
+        "kode_desa" : "3505120010",
+        "desa" : "Ampelgading",
+        "kecamatan" : "Selorejo",
+        "kode_kecamatan" : "3505120"
+    },
+    {
+        "kode_surat": "409.49.5",
+        "kode_desa" : "3505130001",
+        "desa" : "Slorok",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.49.8",
+        "kode_desa" : "3505130004",
+        "desa" : "Sidorejo",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.49.1",
+        "kode_desa" : "3505130005",
+        "desa" : "Doko",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.49.6",
+        "kode_desa" : "3505130006",
+        "desa" : "Suru",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.49.2",
+        "kode_desa" : "3505130007",
+        "desa" : "Plumbangan",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.52.1",
+        "kode_desa" : "3505150006",
+        "desa" : "Gandusari",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.49.10",
+        "kode_desa" : "3505130008",
+        "desa" : "Sumberurip",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.49.9",
+        "kode_desa" : "3505130009",
+        "desa" : "Resapombo",
+        "kecamatan" : "Doko",
+        "kode_kecamatan" : "3505130"
+    },
+    {
+        "kode_surat": "409.48",
+        "kode_desa" : "3505140007",
+        "desa" : "Klemunan",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.47",
+        "kode_desa" : "3505140009",
+        "desa" : "Wlingi",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.46",
+        "kode_desa" : "3505140010",
+        "desa" : "Tangkil",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.44",
+        "kode_desa" : "3505140011",
+        "desa" : "Beru",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.45",
+        "kode_desa" : "3505140012",
+        "desa" : "Babadan",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.43.1",
+        "kode_desa" : "3505140013",
+        "desa" : "Tembalang",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.43.2",
+        "kode_desa" : "3505140014",
+        "desa" : "Ngadirenggo",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.10.1",
+        "kode_desa" : "3505160001",
+        "desa" : "Pojok",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.43.3",
+        "kode_desa" : "3505140015",
+        "desa" : "Tegalasri",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.43.4",
+        "kode_desa" : "3505140016",
+        "desa" : "Balerejo",
+        "kecamatan" : "Wlingi",
+        "kode_kecamatan" : "3505140"
+    },
+    {
+        "kode_surat": "409.52.7",
+        "kode_desa" : "3505150001",
+        "desa" : "Sumberagung",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.5",
+        "kode_desa" : "3505150004",
+        "desa" : "Tambakan",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.4",
+        "kode_desa" : "3505150005",
+        "desa" : "Butun",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.4",
+        "kode_desa" : "3505150007",
+        "desa" : "Sukosewu",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.2",
+        "kode_desa" : "3505150008",
+        "desa" : "Gadungan",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.3",
+        "kode_desa" : "3505150009",
+        "desa" : "Ngaringan",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.11",
+        "kode_desa" : "3505150010",
+        "desa" : "Soso",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.9",
+        "kode_desa" : "3505150012",
+        "desa" : "Semen",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.20.10",
+        "kode_desa" : "3505200014",
+        "desa" : "Kandangan",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.52.12",
+        "kode_desa" : "3505150013",
+        "desa" : "Tulungrejo",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.52.13",
+        "kode_desa" : "3505150014",
+        "desa" : "Krisik",
+        "kecamatan" : "Gandusari",
+        "kode_kecamatan" : "3505150"
+    },
+    {
+        "kode_surat": "409.11",
+        "kode_desa" : "3505160003",
+        "desa" : "Garum",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.10.2",
+        "kode_desa" : "3505160004",
+        "desa" : "Tingal",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.14",
+        "kode_desa" : "3505160005",
+        "desa" : "Bence",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.12",
+        "kode_desa" : "3505160006",
+        "desa" : "Tawangsari",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.10.3",
+        "kode_desa" : "3505160007",
+        "desa" : "Slorok",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.10.4",
+        "kode_desa" : "3505160008",
+        "desa" : "Sidodadi",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.10.5",
+        "kode_desa" : "3505160009",
+        "desa" : "Karangrejo",
+        "kecamatan" : "Garum",
+        "kode_kecamatan" : "3505160"
+    },
+    {
+        "kode_surat": "409.19.2",
+        "kode_desa" : "3505170002",
+        "desa" : "Jiwut",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.7",
+        "kode_desa" : "3505170003",
+        "desa" : "Krenceng",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.8",
+        "kode_desa" : "3505170004",
+        "desa" : "Kemloko",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.10",
+        "kode_desa" : "3505170005",
+        "desa" : "Dayu",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.4",
+        "kode_desa" : "3505170006",
+        "desa" : "Ngoran",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.1",
+        "kode_desa" : "3505170007",
+        "desa" : "Nglegok",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.20.11",
+        "kode_desa" : "3505200015",
+        "desa" : "Kendalrejo",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.19.9",
+        "kode_desa" : "3505170008",
+        "desa" : "Modangan",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.18.11",
+        "kode_desa" : "3505180009",
+        "desa" : "Sumberjo",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.12",
+        "kode_desa" : "3505180010",
+        "desa" : "Jeding",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.10",
+        "kode_desa" : "3505180011",
+        "desa" : "Gledug",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.19.6",
+        "kode_desa" : "3505170009",
+        "desa" : "Penataran",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.5",
+        "kode_desa" : "3505170010",
+        "desa" : "Kedawung",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.19.11",
+        "kode_desa" : "3505170011",
+        "desa" : "Sumberasri",
+        "kecamatan" : "Nglegok",
+        "kode_kecamatan" : "3505170"
+    },
+    {
+        "kode_surat": "409.18.2",
+        "kode_desa" : "3505180003",
+        "desa" : "Bendowulung",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.3",
+        "kode_desa" : "3505180004",
+        "desa" : "Purworejo",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.6",
+        "kode_desa" : "3505180005",
+        "desa" : "Bendosari",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.1",
+        "kode_desa" : "3505180006",
+        "desa" : "Sanankulon",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.18.7",
+        "kode_desa" : "3505180007",
+        "desa" : "Kalipucung",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.27.3",
+        "kode_desa" : "3505210010",
+        "desa" : "Salam",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.18.9",
+        "kode_desa" : "3505180012",
+        "desa" : "Sumberingin",
+        "kecamatan" : "Sanankulon",
+        "kode_kecamatan" : "3505180"
+    },
+    {
+        "kode_surat": "409.25.5",
+        "kode_desa" : "3505190001",
+        "desa" : "Bendo",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.4",
+        "kode_desa" : "3505190002",
+        "desa" : "Jatilengger",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.6",
+        "kode_desa" : "3505190003",
+        "desa" : "Maliran",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.3",
+        "kode_desa" : "3505190004",
+        "desa" : "Kawedusan",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.12",
+        "kode_desa" : "3505190013",
+        "desa" : "Ringinanyar",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.15",
+        "kode_desa" : "3505190005",
+        "desa" : "Langon",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.13",
+        "kode_desa" : "3505190007",
+        "desa" : "Kebonduren",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.2",
+        "kode_desa" : "3505190008",
+        "desa" : "Pojok",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.1",
+        "kode_desa" : "3505190009",
+        "desa" : "Ponggok",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.7",
+        "kode_desa" : "3505190010",
+        "desa" : "Karangbendo",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.8",
+        "kode_desa" : "3505190011",
+        "desa" : "Candirejo",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.10",
+        "kode_desa" : "3505190012",
+        "desa" : "Bacem",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.11",
+        "kode_desa" : "3505190014",
+        "desa" : "Gembongan",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.25.9",
+        "kode_desa" : "3505190015",
+        "desa" : "Sidorejo",
+        "kecamatan" : "Ponggok",
+        "kode_kecamatan" : "3505190"
+    },
+    {
+        "kode_surat": "409.20.8",
+        "kode_desa" : "3505200002",
+        "desa" : "Selokajang",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.9",
+        "kode_desa" : "3505200003",
+        "desa" : "Ngaglik",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.7",
+        "kode_desa" : "3505200004",
+        "desa" : "Maron",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.4",
+        "kode_desa" : "3505200005",
+        "desa" : "Pakisrejo",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.3",
+        "kode_desa" : "3505200006",
+        "desa" : "Karanggayam",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.1",
+        "kode_desa" : "3505200011",
+        "desa" : "Kerjen",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.24",
+        "kode_desa" : "3505200013",
+        "desa" : "Kauman",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.20.12",
+        "kode_desa" : "3505200017",
+        "desa" : "Bagelenan",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.21",
+        "kode_desa" : "3505200018",
+        "desa" : "Srengat",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.22",
+        "kode_desa" : "3505200019",
+        "desa" : "Togogan",
+        "kecamatan" : "Srengat",
+        "kode_kecamatan" : "3505200"
+    },
+    {
+        "kode_surat": "409.27.11",
+        "kode_desa" : "3505210001",
+        "desa" : "Gandekan",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.10",
+        "kode_desa" : "3505210002",
+        "desa" : "Kunir",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.8",
+        "kode_desa" : "3505210003",
+        "desa" : "Kolomayan",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.9",
+        "kode_desa" : "3505210004",
+        "desa" : "Pikatan",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.1",
+        "kode_desa" : "3505210005",
+        "desa" : "Wonodadi",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.5",
+        "kode_desa" : "3505210007",
+        "desa" : "Rejosari",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.6",
+        "kode_desa" : "3505210008",
+        "desa" : "Tawangrejo",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.27.7",
+        "kode_desa" : "3505210009",
+        "desa" : "Kebonagung",
+        "kecamatan" : "Wonodadi",
+        "kode_kecamatan" : "3505210"
+    },
+    {
+        "kode_surat": "409.26.2",
+        "kode_desa" : "3505220006",
+        "desa" : "Ringinanom",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.3",
+        "kode_desa" : "3505220007",
+        "desa" : "Sumberasri",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.1",
+        "kode_desa" : "3505220008",
+        "desa" : "Karanggondang",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.9",
+        "kode_desa" : "3505220009",
+        "desa" : "Tunjung",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.11",
+        "kode_desa" : "3505220010",
+        "desa" : "Jati",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.12",
+        "kode_desa" : "3505220013",
+        "desa" : "Temenggungan",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.10",
+        "kode_desa" : "3505220014",
+        "desa" : "Besuki",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.8",
+        "kode_desa" : "3505220015",
+        "desa" : "Bakung",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.4",
+        "kode_desa" : "3505220016",
+        "desa" : "Mangunan",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.5",
+        "kode_desa" : "3505220017",
+        "desa" : "Sukorejo",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "409.26.6",
+        "kode_desa" : "3505220018",
+        "desa" : "Slemanan",
+        "kecamatan" : "Udanawu",
+        "kode_kecamatan" : "3505220"
+    },
+    {
+        "kode_surat": "999.99.9",
+        "kode_desa" : "9999999999",
+        "desa" : "Lainnya",
+        "kecamatan" : "Lainnya",
+        "kode_kecamatan" : "9999999"
+    }
+]
